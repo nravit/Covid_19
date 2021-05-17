@@ -1,0 +1,30 @@
+PODS:
+  - ADCountryPicker (2.1.0)
+  - Alamofire (5.4.3)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - IQKeyboardManager (6.5.6)
+
+DEPENDENCIES:
+  - ADCountryPicker
+  - Alamofire
+  - Charts
+  - IQKeyboardManager
+
+SPEC REPOS:
+  trunk:
+    - ADCountryPicker
+    - Alamofire
+    - Charts
+    - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+
+PODFILE CHECKSUM: 679b247202362e67b5d0313fbf21f0353578c398
+
+COCOAPODS: 1.10.0
